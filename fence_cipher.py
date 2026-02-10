@@ -1,3 +1,4 @@
+# function that receive str and return him in fence cipher
 def fence_cipher(str):
     even = []
     odd = []
